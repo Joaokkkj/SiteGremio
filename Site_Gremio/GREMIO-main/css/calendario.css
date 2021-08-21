@@ -1,0 +1,53 @@
+.container #corpo .fundo{
+    background-color: #fff;
+    border-bottom: solid 7px #830303;
+    margin: 0 20% 0 20%;
+    -webkit-box-shadow: 0 2px 10px 0 rgb(0 0 0 / 30%);
+    box-shadow: 0 2px 10px 0 rgb(0 0 0 / 30%);
+}
+
+.container #corpo .fundo .header{
+    background-color: #830303;
+    width: 100%;
+    padding-top: 2rem;
+    padding-bottom: 20px;
+    text-align: center;
+    font-weight: 900;
+    font-size: 35px;
+}
+
+.container #corpo .fundo .header p{
+    padding-left: 20px;
+    color: white;
+    font-family: roboto;
+    font-size: 26px;
+    font-weight: 300px;
+}
+
+.container #corpo .fundo .info h4{
+    padding: 15px 4px 15px 5px;
+    font-size: 30px;
+    font-family: roboto;
+    text-align: center;
+    font-weight: 700;
+}
+
+.container #corpo .fundo .info p{
+    font-family: roboto;
+    font-weight: 900;
+    padding-bottom: 25px;
+    margin-left: 50px;
+}
+
+.container #corpo .fundo hr{
+    width: 100%;
+    margin-bottom: 25px;
+}
+
+
+.container #corpo .fundo .info .malcriado img{
+    margin-left: 10px;
+    margin-right: 7.5px;
+    width: 2%;
+    float: left;
+}

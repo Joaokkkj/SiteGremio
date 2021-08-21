@@ -1,0 +1,109 @@
+.container #corpo .fundo{
+    background-color: rgba(255, 255, 255, 0.596);
+    width: 100%;
+    height: 100%;
+    padding-bottom: 20px;
+}
+
+.container #corpo .fundo .titulo{
+    padding: 20px 10px 0 10px;
+}
+
+.container #corpo .fundo .titulo h1{
+    border: solid black 3px;
+    border-bottom: none;
+    background-color: #B20000;
+    color: white;
+    text-align: center;
+    font-family: roboto;
+    border-radius: 50px
+    
+    
+}
+
+.container #corpo .fundo .postagem{
+    padding: 0px 27px 0 27px;
+}
+
+.container #corpo .fundo .postagem p{
+    text-align: justify;
+    line-height: 1.5;
+    text-indent: 50px;
+    font-family: roboto;
+    font-size: 17px;
+    border: solid black 3px;
+    border-top: none;
+    border-bottom: none;
+    background-color: #425563;
+    color: white;
+    padding: 7px 5px 10px 5px;
+}
+
+.container #corpo .fundo .final{
+    padding: 0px 10px 0 10px;
+}
+
+.container #corpo .fundo .final h1{
+    border: solid black 3px;
+    border-top: none;
+    background-color: #B20000;
+    color: white;
+    border-radius: 50px
+
+}
+
+@media (min-width: 900px) {
+    .container #corpo .fundo{
+        background-color: rgba(255, 255, 255, 0.596);
+        width: 50%;
+        height: 100%;
+        padding-bottom: 20px;
+    }
+    
+    .container #corpo .fundo .titulo{
+        padding: 20px 10px 0 10px;
+    }
+    
+    .container #corpo .fundo .titulo h1{
+        border: solid black 3px;
+        border-bottom: none;
+        background-color: #B20000;
+        color: white;
+        text-align: center;
+        font-family: roboto;
+        border-radius: 50px
+        
+        
+    }
+    
+    .container #corpo .fundo .postagem{
+        padding: 0px 27px 0 27px;
+    }
+    
+    .container #corpo .fundo .postagem p{
+        text-align: justify;
+        line-height: 1.5;
+        text-indent: 50px;
+        font-family: roboto;
+        font-size: 17px;
+        border: solid black 3px;
+        border-top: none;
+        border-bottom: none;
+        background-color: #425563;
+        color: white;
+        padding: 7px 5px 10px 5px;
+    }
+    
+    .container #corpo .fundo .final{
+        padding: 0px 10px 0 10px;
+    }
+    
+    .container #corpo .fundo .final h1{
+        border: solid black 3px;
+        border-top: none;
+        background-color: #B20000;
+        color: white;
+        border-radius: 50px
+    
+    }
+}
